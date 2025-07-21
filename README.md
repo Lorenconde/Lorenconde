@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🤩Loren Conde
 
-<!--
-**Lorenconde/Lorenconde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👩‍💻`Desenvolvedora Front End`**
 
-Here are some ideas to get you started:
+Olá me chamo Loren Eisfeld Conde Rosa, sou natural de Pelotas Rio Grande do Sul. Sou formada em Técnico em Manutenção e suporte em Informática, e em Tecnologia em Sistemas para Internet. Tenho 21 anos de experiência em outras áreas. Sou uma pessoa proativa, dedicada e em constante evolução, com grande interesse em tecnologia e desenvolvimento web. Atualmente, busco oportunidade profissional como Desenvolvedora Front-End, aplicando os conhecimentos adquiridos em HTML, CSS, JavaScript e frameworks modernos. Tenho facilidade em aprender, gosto de resolver problemas e estou sempre em busca de aprimorar minhas habilidades técnicas e interpessoais. Estou pronta para contribuir com projetos reais, trazendo organização, criatividade e comprometimento para a equipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<a href="https://ibb.co/20DJNQyN">
+<img align="right" src="https://i.ibb.co/20DJNQyN/Loren01.png" alt="Loren01"/>
+</a>
+
+### 💻Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+### 🌐Redes Sociais
+
+<div align="left">
+ <a href="https://www.instagram.com/loreneisfeldconderosa/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" >
+  </a>
+  <a href="https://discord.com/channels/@me">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://maill">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/loren-eisfeld-conde-rosa-4a12171b5/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+### 📊 Estatísticas
+<<div>
+<a href="https://github.com/Lorenconde">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenconde&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/Lorenconde/Lorenconde/blob/output/github-contribution-grid-snake.svg)
