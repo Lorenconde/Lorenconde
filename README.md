@@ -4,12 +4,6 @@
 
 Olá me chamo Loren Eisfeld Conde Rosa, sou natural de Pelotas Rio Grande do Sul. Sou formada em Técnico em Manutenção e suporte em Informática, e em Tecnologia em Sistemas para Internet. Tenho 21 anos de experiência em outras áreas. Sou uma pessoa proativa, dedicada e em constante evolução, com grande interesse em tecnologia e desenvolvimento web. Atualmente, busco oportunidade profissional como Desenvolvedora Front-End, aplicando os conhecimentos adquiridos em HTML, CSS, JavaScript e frameworks modernos. Tenho facilidade em aprender, gosto de resolver problemas e estou sempre em busca de aprimorar minhas habilidades técnicas e interpessoais. Estou pronta para contribuir com projetos reais, trazendo organização, criatividade e comprometimento para a equipe.
 
-###
-
-<a href="https://ibb.co/20DJNQyN">
-<img align="right" src="https://i.ibb.co/20DJNQyN/Loren01.png" alt="Loren01"/>
-</a>
-
 ### 💻Tecnologias
 
 <div align="left">
@@ -35,7 +29,7 @@ Olá me chamo Loren Eisfeld Conde Rosa, sou natural de Pelotas Rio Grande do Sul
   <a href="https://discord.com/channels/@me">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:loren.ec.rosa@gmial.com">
+  <a href="mailto:loren.ec.rosa@gmail.com">
   <img  loading="lazy" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/loren-eisfeld-conde-rosa-4a12171b5/">
