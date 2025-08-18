@@ -12,7 +12,7 @@
 <img align="right" src="https://i.ibb.co/20DJNQyN/Loren01.png" alt="Loren01"/>
 </a>
 
- Tenho 21 anos de experiência em outras áreas. Sou uma pessoa proativa, dedicada e em constante evolução, com grande interesse em tecnologia e desenvolvimento web. Atualmente, busco oportunidade profissional como Desenvolvedora Front-End, aplicando os conhecimentos adquiridos em HTML, CSS, JavaScript e frameworks modernos. Tenho facilidade em aprender, gosto de resolver problemas e estou sempre em busca de aprimorar minhas habilidades técnicas e interpessoais. Estou pronta para contribuir com projetos reais, trazendo organização, criatividade e comprometimento para a equipe.
+ Sou uma pessoa proativa, dedicada e em constante evolução, com grande interesse em tecnologia e desenvolvimento web. Atualmente, busco oportunidade profissional como Desenvolvedora Front-End, aplicando os conhecimentos adquiridos em HTML, CSS, JavaScript e frameworks modernos. Tenho facilidade em aprender, gosto de resolver problemas e estou sempre em busca de aprimorar minhas habilidades técnicas e interpessoais. Estou pronta para contribuir com projetos reais, trazendo organização, criatividade e comprometimento para a equipe.
 
 ### 💻Tecnologias
 
