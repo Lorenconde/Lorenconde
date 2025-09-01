@@ -6,6 +6,7 @@
 - 🏙️Natural da Cidade de Pelotas/RS
 - 🎓Formada em Tecnologia em Sistema para Internet e Técnica em Manutenção e Suporte em Informática.
 - 📚 Atualmente estudando na plataforma da Dio.
+- 💻 Em busca de oportunidades na área de tecnologia, com facilidade de adaptação e desejo de crescimento profissional.
 
   ###
 <a href="https://ibb.co/20DJNQyN">
