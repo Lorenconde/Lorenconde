@@ -50,11 +50,9 @@
 
 ### 📊 Estatísticas
 <div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenconde&layout=compact&langs_count=7&theme=dracula&cache_seconds=180)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=180)
-
+<a href="https://github.com/Lorenconde">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenconde&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
