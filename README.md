@@ -1,63 +1,113 @@
-<h1 align="center">Olá 👋 Eu sou a Loren</h1>
+<h1 align="center">Hi 👋 I'm Loren Conde</h1>
 
 <p align="center">
-Desenvolvedora Front-End em formação | HTML • CSS • JavaScript • React
+🎓 Systems for Internet Graduate <br>
+💻 Front-end Developer | .NET Full Stack in progress <br>
+📊 Graph Database enthusiast (Neo4j) <br>
+🤖 Exploring Generative AI for Developers
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🚀 About me
 
-Sou uma desenvolvedora Front-End em constante evolução, apaixonada por tecnologia e criação de interfaces modernas, responsivas e funcionais.  
-Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e crescer junto com a equipe.
+I am a Systems for Internet graduate focused on building modern web interfaces and backend APIs using .NET technologies.
 
----
+Currently developing projects with:
 
-## 🚀 Tecnologias e Ferramentas
+• HTML  
+• CSS  
+• JavaScript  
+• React  
+• C#  
+• .NET  
+• TypeScript  
+• Neo4j  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Lorenconde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenconde&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+I enjoy transforming ideas into structured and accessible digital solutions.
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lorenconde&theme=dracula" />
-</div>
+### Front-end
+
+HTML • CSS • JavaScript • React
+
+### Back-end
+
+C# • .NET • TypeScript • REST APIs
+
+### Databases
+
+Neo4j (Graph Database)
+
+### Currently learning
+
+React advanced concepts  
+.NET APIs  
+Graph modeling with Neo4j  
+Generative AI for Developers
 
 ---
 
-## 🌐 Contato
+## 📂 Featured Projects
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/loren-eisfeld-conde-rosa-4a12171b5/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:loren.ec.rosa@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+🔹 YouTube Interface Clone  
+Modern responsive layout using HTML and CSS
+
+🔹 Discord Landing Page Clone  
+Landing page inspired by a professional production interface
+
+🔹 React Dashboard (Tecboard)  
+Component-based UI using React + Vite
+
+🔹 Code Connect Backend API  
+Backend API built with TypeScript
+
+🔹 Report Generator (.NET)  
+Backend processing project developed in C#
+
+🔹 Graph Database Exercises  
+Graph modeling using Neo4j and Cypher queries
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lorenconde&color=blueviolet"/>
-</div>
+## 🏆 Achievements
+
+✔ Systems for Internet Degree  
+✔ DIO Campus Expert – Class #15  
+✔ Full Stack .NET Learning Path  
+✔ Neo4j Graph Database Studies  
+✔ Generative AI Foundations for Developers
+
+---
+
+## 🎯 Career Goals
+
+Seeking opportunities as:
+
+• Front-end Developer  
+• Junior Full Stack Developer  
+• .NET Developer (Junior)
+
+Focused on building scalable interfaces and structured backend services.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenconde&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect with me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/loren-eisfeld-conde-rosa-4a12171b5
+
+💻 GitHub  
+https://github.com/Lorenconde
