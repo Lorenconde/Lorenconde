@@ -95,7 +95,7 @@ Focused on building scalable interfaces and structured backend services.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lorenconde&show_icons=true&theme=tokyonight"/>
