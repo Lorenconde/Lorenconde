@@ -107,7 +107,7 @@ Focused on building scalable interfaces and structured backend services.
 ## 📫 Connect with me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/loren-eisfeld-conde-rosa-4a12171b5
+https://www.linkedin.com/in/loren-eisfeld
 
 💻 GitHub  
 https://github.com/Lorenconde
